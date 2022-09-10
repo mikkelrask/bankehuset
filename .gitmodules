@@ -1,0 +1,6 @@
+[submodule "bankehuset-webapp"]
+	path = bankehuset-webapp
+	url = https://github.com/mikkelrask/bankehuset-webapp
+[submodule "bankehuset-docs"]
+	path = bankehuset-docs
+	url = https://github.com/mikkelrask/bankehuset-docs
